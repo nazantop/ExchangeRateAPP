@@ -67,7 +67,6 @@
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/appsettings.Development.json
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/appsettings.json
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/angular.json
-/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/package-lock.json
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/package.json
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/tsconfig.app.json
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/tsconfig.json
@@ -127,3 +126,5 @@
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/kxjlcvdhxe-czqzq4t2v6.gz
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/e1pmkbw4ja-d9zk9tr30k.gz
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/wgghzhhlsj-93creyurr2.gz
+/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/ExchangeRateAPI.sourcelink.json
+/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/bin/Debug/net9.0/ExchangeRateUI/currency-exchange/package-lock.json
