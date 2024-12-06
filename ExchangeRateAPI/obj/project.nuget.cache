@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIdVcmR03ZM=",
+  "success": true,
+  "projectFilePath": "/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/ExchangeRateAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/nazantop/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0-preview.6.24328.4/microsoft.aspnetcore.openapi.9.0.0-preview.6.24328.4.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/microsoft.openapi/1.6.13/microsoft.openapi.1.6.13.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.aspnetcore/8.0.3/serilog.aspnetcore.8.0.3.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.extensions.hosting/8.0.0/serilog.extensions.hosting.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.extensions.logging/8.0.0/serilog.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.formatting.compact/2.0.0/serilog.formatting.compact.2.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.settings.configuration/8.0.4/serilog.settings.configuration.8.0.4.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.sinks.console/5.0.0/serilog.sinks.console.5.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.sinks.debug/2.0.0/serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/stackexchange.redis/2.8.22/stackexchange.redis.2.8.22.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
+    "/Users/nazantop/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'System.Text.Encodings.Web' 4.5.0 paketinde önem derecesi kritik olan bilinen bir https://github.com/advisories/GHSA-ghhp-997w-qr28 güvenlik açığı var",
+      "libraryId": "System.Text.Encodings.Web",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
