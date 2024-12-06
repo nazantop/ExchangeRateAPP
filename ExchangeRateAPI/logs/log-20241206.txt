@@ -22136,3 +22136,42 @@
 2024-12-06 14:08:03.798 +01:00 [INF] Executed endpoint 'ExchangeRateAPI.Controllers.ExchangeRateController.GetExchangeRates (ExchangeRateAPI)'
 2024-12-06 14:08:03.798 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/api/ExchangeRate/GetExchangeRates - 200 null application/json; charset=utf-8 51.4469ms
 2024-12-06 14:08:09.482 +01:00 [INF] Application is shutting down...
+2024-12-06 20:15:54.686 +01:00 [INF] Now listening on: http://localhost:5005
+2024-12-06 20:15:54.717 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-06 20:15:54.717 +01:00 [INF] Hosting environment: Development
+2024-12-06 20:15:54.717 +01:00 [INF] Content root path: /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI
+2024-12-06 20:15:55.559 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/ - null null
+2024-12-06 20:15:55.571 +01:00 [WRN] Failed to determine the https port for redirect.
+2024-12-06 20:15:55.573 +01:00 [INF] Executing endpoint 'Fallback {*path:nonfile}'
+2024-12-06 20:15:55.581 +01:00 [INF] Sending file. Request path: '/index.html'. Physical path: '/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/wwwroot/browser/index.html'
+2024-12-06 20:15:55.582 +01:00 [INF] Executed endpoint 'Fallback {*path:nonfile}'
+2024-12-06 20:15:55.583 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/index.html - 200 489 text/html 24.43ms
+2024-12-06 20:15:55.605 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/styles-5INURTSO.css - null null
+2024-12-06 20:15:55.605 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/polyfills-FFHMD2TL.js - null null
+2024-12-06 20:15:55.606 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/main-YBWNWPV3.js - null null
+2024-12-06 20:15:55.609 +01:00 [INF] CORS policy execution successful.
+2024-12-06 20:15:55.609 +01:00 [INF] CORS policy execution successful.
+2024-12-06 20:15:55.611 +01:00 [INF] Sending file. Request path: '/styles-5INURTSO.css'. Physical path: '/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/wwwroot/browser/styles-5INURTSO.css'
+2024-12-06 20:15:55.611 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/styles-5INURTSO.css - 200 0 text/css 6.8115ms
+2024-12-06 20:15:55.614 +01:00 [INF] Sending file. Request path: '/polyfills-FFHMD2TL.js'. Physical path: '/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/wwwroot/browser/polyfills-FFHMD2TL.js'
+2024-12-06 20:15:55.615 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/polyfills-FFHMD2TL.js - 200 34519 text/javascript 10.4555ms
+2024-12-06 20:15:55.617 +01:00 [INF] Sending file. Request path: '/main-YBWNWPV3.js'. Physical path: '/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/wwwroot/browser/main-YBWNWPV3.js'
+2024-12-06 20:15:55.617 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/main-YBWNWPV3.js - 200 150352 text/javascript 10.791ms
+2024-12-06 20:15:55.640 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/api/ExchangeRate/GetExchangeRates - null null
+2024-12-06 20:15:55.644 +01:00 [INF] Executing endpoint 'ExchangeRateAPI.Controllers.ExchangeRateController.GetExchangeRates (ExchangeRateAPI)'
+2024-12-06 20:15:55.654 +01:00 [INF] Route matched with {action = "GetExchangeRates", controller = "ExchangeRate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetExchangeRates() on controller ExchangeRateAPI.Controllers.ExchangeRateController (ExchangeRateAPI).
+2024-12-06 20:15:55.659 +01:00 [INF] Handling GetExchangeRates request.
+2024-12-06 20:15:55.662 +01:00 [INF] Fetching exchange rates from cache.
+2024-12-06 20:15:55.665 +01:00 [INF] Cache miss. Fetching from API.
+2024-12-06 20:15:55.671 +01:00 [INF] Start processing HTTP request GET https://api.fxratesapi.com/latest
+2024-12-06 20:15:55.674 +01:00 [INF] Sending HTTP request GET https://api.fxratesapi.com/latest
+2024-12-06 20:15:55.824 +01:00 [INF] Received HTTP response headers after 148.1571ms - 200
+2024-12-06 20:15:55.824 +01:00 [INF] End processing HTTP request after 153.4547ms - 200
+2024-12-06 20:15:55.840 +01:00 [INF] Saved exchange rates to cache.
+2024-12-06 20:15:55.842 +01:00 [INF] Executing OkObjectResult, writing value of type 'ExchangeRateAPI.Models.ExchangeRate'.
+2024-12-06 20:15:55.844 +01:00 [INF] Executed action ExchangeRateAPI.Controllers.ExchangeRateController.GetExchangeRates (ExchangeRateAPI) in 188.0595ms
+2024-12-06 20:15:55.844 +01:00 [INF] Executed endpoint 'ExchangeRateAPI.Controllers.ExchangeRateController.GetExchangeRates (ExchangeRateAPI)'
+2024-12-06 20:15:55.844 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/api/ExchangeRate/GetExchangeRates - 200 null application/json; charset=utf-8 204.6491ms
+2024-12-06 20:15:56.026 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5005/unknown-flag.png - null null
+2024-12-06 20:15:56.028 +01:00 [INF] Sending file. Request path: '/unknown-flag.png'. Physical path: '/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/wwwroot/browser/unknown-flag.png'
+2024-12-06 20:15:56.029 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5005/unknown-flag.png - 200 28949 image/png 2.536ms

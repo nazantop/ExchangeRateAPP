@@ -127,3 +127,4 @@
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/kxjlcvdhxe-czqzq4t2v6.gz
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/e1pmkbw4ja-d9zk9tr30k.gz
 /Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/compressed/wgghzhhlsj-93creyurr2.gz
+/Users/nazantop/Desktop/ExchangeRateAPP/ExchangeRateAPI/obj/Debug/net9.0/ExchangeRateAPI.sourcelink.json
